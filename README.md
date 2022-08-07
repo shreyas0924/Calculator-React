@@ -1,2 +1,2 @@
 
-## Simple calculator app using useReduceers hook
+## Simple calculator app using useReducer hook
